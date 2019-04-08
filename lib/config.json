@@ -1,0 +1,37 @@
+{
+    "login":{
+        "username":"nordnetusername",
+        "password":"nordnetpassword",
+        "certificate":"lib/NEXTAPI_TEST_public.pem",
+        "accountnumber": 0
+    },
+    "api-info":{
+        "url":"api.test.nordnet.se",
+        "service": "NEXTAPI",
+        "api_version": "2",
+        "headers": {"Accept": "application/json"}
+    },
+    "e-mail":{
+        "from_addr_username":"email_send_account@gmail.com",
+        "from_addr_password":"password_send_account",
+        "from_addr_smtp":"smtp.gmail.com:587",
+        "to_addr":"email_to_send_to@gmail.com"
+    },
+	"history":{
+		"database":"lib/historical_prices.db",
+		"log":"lib/log.csv" 
+	},
+	"hours":{
+		"reset_loss_safety":"08:30",
+		"cancel_morning_orders":"09:05",
+		"trade_hours_open":"09:20",
+		"trade_hours_close":"16:45",
+		"cancel_evening_orders":"17:15",
+		"start_logging":"09:00",
+		"stop_logging":"17:30",
+        "saturday":5,
+        "sunday":6
+	}
+}
+
+
