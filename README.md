@@ -4,7 +4,7 @@ The Algorithmic platform for Nordnet nExtAPI (APNn) is a trading platform that c
 
 This document aims to describe the software architecture and to briefly describe all the different functions and files being used. To get a deeper understanding, additional comments can be found in each of the different files.
 
-Use this software at your own risk, and if you want to trade in the live Nordnet environment you will still need to certify yourself with your own implementation. This platform is built as an inspiration for future development. I’m not a professional developer and do not take any responsibility for the software not working.
+**Use this software at your own risk**, and if you want to trade in the live Nordnet environment you will still need to certify yourself with your own implementation. This platform is built as an inspiration for future development. I’m not a professional developer nor a security expert and do not take any responsibility for the software not working.
 
 Questions, requests, and suggestions can be sent to @ottovelander on twitter (checked sporadically).
 
