@@ -35,3 +35,6 @@ To start APNn, run (from the main folder):
 ```
 python3 main.py
 ```
+
+## More details
+More details how the software is structured can be found in "Introduction to APNn.pdf"
