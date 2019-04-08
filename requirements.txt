@@ -1,4 +1,4 @@
-requests==2.19.1
+requests==2.20.0
 pycrypto==2.6.1
 pandas==0.23.1
 certifi==2018.4.16
